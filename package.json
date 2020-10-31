@@ -1,0 +1,19 @@
+{
+  "name": "@quick.eco/mysql",
+  "version": "1.0.1",
+  "description": "MySQL Manager for Quick.Eco",
+  "main": "./src/Manager",
+  "author": "DevSnowflake",
+  "license": "Apache License 2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevSnowflake/quick.eco-mysql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DevSnowflake/quick.eco-mysql/issues"
+  },
+  "homepage": "https://github.com/DevSnowflake/quick.eco-mysql#README",
+  "dependencies": {
+    "@yahapi/mysql": "^0.1.3"
+  }
+}
